@@ -1,0 +1,7 @@
+messages:
+  whitelist: ¡No estás en la lista blanca de este servidor!
+  unknown-command: Comando desconocido. Escribe "/help" para obtener ayuda.
+  server-full: ¡El servidor está lleno!
+  outdated-client: ¡Cliente desactualizado! Por favor usa {0}
+  outdated-server: ¡Servidor desactualizado! Todavía estoy en la versión {0}
+  restart: El servidor se está reiniciando
