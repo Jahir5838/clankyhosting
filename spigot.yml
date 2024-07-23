@@ -4,4 +4,4 @@ messages:
   server-full: ¡El servidor está lleno!
   outdated-client: ¡Cliente desactualizado! Por favor usa {0}
   outdated-server: ¡Servidor desactualizado! El servidor está usando la versión {0}
-  restart: El servidor se está reiniciando
+  restart: ¡El servidor se está reiniciando!
